@@ -1,14 +1,13 @@
 Omium V2
 
-Alpha 1.1
 
-Now Full Support to Boostrap 5
+Now Full Support to Boostrap 5.3
 
 More Fast
 
 new Facades:
 
-  Storage, View, Hash
+Storage, View, Hash, Gate, CSRF, Route, View
 
 Automizated run
 
@@ -20,4 +19,9 @@ User Seed
 
 php cosmic user:seed $quantity
 
+php cosmic make:controller $controllerName
+
+php cosmic make: model $modelName
+
+Security to prevent access API routes ou browsers. 
 
