@@ -25,3 +25,11 @@ php cosmic make: model $modelName
 
 Security to prevent access API routes ou browsers. 
 
+==================================================================
+
+Will be 
+
+    php cosmic up
+
+    php cosmic make:migration $tablename
+
